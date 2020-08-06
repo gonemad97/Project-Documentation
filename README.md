@@ -15,4 +15,5 @@ Contains the Documentation of the following projects:
      --> Code is built with Python, SKLearn, Keras, OpenCV.
      
      
-3. Published Medium Article: https://medium.com/@palsmadhu18/facebook-authentication-with-firebase-using-swift-for-ios-5b979e8c260a
+3. Published Medium Article: 
+     -- > https://medium.com/@palsmadhu18/facebook-authentication-with-firebase-using-swift-for-ios-5b979e8c260a
