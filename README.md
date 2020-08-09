@@ -14,7 +14,13 @@ Contains the Documentation of the following projects:
  
      --> Code is built with Python, SKLearn, Keras, OpenCV.
      
+3. Necessity of Secure Coding Practices: An Analysis:
+
+     --> Talks about Secure Coding practices, their origin and recent breakthroughs in the area
      
-3. Published Medium Article: 
+     --> Also analyzes Huawei's issues with security, based on their 2019 Annual Report
+     
+     
+4. Published Medium Article: 
 
      -- > https://medium.com/@palsmadhu18/facebook-authentication-with-firebase-using-swift-for-ios-5b979e8c260a
