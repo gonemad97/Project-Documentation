@@ -3,7 +3,7 @@ Contains the Documentation of the following projects:
 
 1. Published Medium Article: 
 
-- https://medium.com/@palsmadhu18/facebook-authentication-with-firebase-using-swift-for-ios-5b979e8c260a
+   - https://medium.com/@palsmadhu18/facebook-authentication-with-firebase-using-swift-for-ios-5b979e8c260a
      
 
 2. NEU Course Project Documentation:
